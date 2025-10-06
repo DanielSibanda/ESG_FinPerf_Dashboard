@@ -1,0 +1,5 @@
+Notes:
+- PB = MarketCap / Equity; EV/EBITDA uses EV approx via mcap + debt - cash.
+- Sector fixed effects via one-hot dummies.
+- Robust SE: HC3.
+- Interpret as association, not causation.
